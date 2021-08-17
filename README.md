@@ -1,4 +1,4 @@
-# KGMusicBot
+# <p align="center"> -X- KGMUSICBOT -X-
 ![KGMMusicBot](https://telegra.ph/file/c361ab6482b2378c637ce.jpg)
 
 Bot Music Ini Dibuat Dengan [knsgnwn](https://t.me/knsgnwn) Bermaksud Hanya Untuk Meriahkan Group Anda.
