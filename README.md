@@ -12,4 +12,4 @@ Kallian Belum Paham?Bisa Liat [support Channel](https://t.me/rakasupport) Agar P
 
 # string
 ## Silakan Pilih P Untuk Music Bot
-  [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@tofikdn/stringsession#main.py)
+  [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KhansaGunawan/knsgnwn-string?v=1)
