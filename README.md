@@ -1,5 +1,5 @@
 # KGMusicBot
-![KGMMusicBot](https://telegra.ph/file/dc76e1bd14de0222b707f.jpg)
+![KGMMusicBot](https://telegra.ph/file/c361ab6482b2378c637ce.jpg)
 
 Bot Music Ini Dibuat Dengan [knsgnwn](https://t.me/knsgnwn) Bermaksud Hanya Untuk Meriahkan Group Anda.
 Jika Kalian Senang Silahkan Join [Support Group](https://t.me/instagramindonesia1).
