@@ -53,8 +53,10 @@ sᴀʏᴀ ᴍᴇᴍᴘᴜɴʏᴀɪ ғɪᴛᴜʀ ᴘʀᴀᴋᴛɪs sᴇᴘᴇʀ�
                          "ᴀssɪsᴛᴇɴᴛ", url=f"https://t.me/{ASSISTANT_NAME}"
                     ),
                     InlineKeyboardButton(
-                        "ʀᴇᴘᴏ", url="https://github.com/rakaanjay/KGMusicBot"
+                        "ɢʀᴏᴜᴘ", url=f"https://t.me/KGSupportgroup"
                     )
+                ],[
+                    InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/kgproject1010/KGMusicBot")
                 ]
             ]
         ),
@@ -73,7 +75,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ʀᴇᴘᴏ", url="https://github.com/rakaanjay/KGMusicBot"
+                        "ʀᴇᴘᴏ", url="https://github.com/kgproject1010/KGMusicBot"
                     ),
                     InlineKeyboardButton(
                         "ɢʀᴏᴜᴘ", url="https://t.me/instagramindonesia1"
