@@ -461,7 +461,7 @@ async def play(_, message: Message):
                 
                 ],                     
                 [
-                    InlineKeyboardButton("ɢʀᴏᴜᴘ", url=f"https://t.me/instagramindonesia1"),
+                    InlineKeyboardButton("ɢʀᴏᴜᴘ", url=f"https://t.me/KGSupportgroup"),
                     InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/rakasupport")
                 
                 ]                             
