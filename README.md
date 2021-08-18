@@ -4,6 +4,7 @@
 Bot Music Ini Dibuat Dengan [knsgnwn](https://t.me/knsgnwn) Bermaksud Hanya Untuk Meriahkan Group Anda.
 Jika Kalian Senang Silahkan Join [Support Group](https://t.me/instagramindonesia1).
 Kallian Belum Paham?Bisa Liat [support Channel](https://t.me/rakasupport) Agar Paham
+![KG](https://telegra.ph/file/754c2f125d9d6ff44ae9a.jpg)
 ## How to setup/deploy.
 
 # Deploy
